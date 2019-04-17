@@ -60,5 +60,6 @@ npm start
 
 - The CSS pre-processor in use is Less. You don't have to worry about the syntax and just write in normal CSS as there are helper modules to assist you (located in `style/helpers`).
 
-- There are many weather APIs out there; this boilerplate uses OpenWeatherMap. Sign up, is free and you can find out more about it here : https://openweathermap.org/api  👌
+- There are many weather APIs out there; this uses OpenWeatherMap. 
+	Sign up, is free and you can find out more about it here : https://openweathermap.org/api  👌
 
