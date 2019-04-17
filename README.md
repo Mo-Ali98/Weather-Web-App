@@ -22,6 +22,10 @@ npm -v
 ```sh
 npm install
 ```
+**3.Install the progress component **
+```sh
+npm install --save react-circular-progressbar
+```
 
 ## Development Workflow
 
