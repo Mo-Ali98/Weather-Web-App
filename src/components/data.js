@@ -15,7 +15,7 @@ const weather = [
     {
         type:   'clear',
         music:  "https://open.spotify.com/embed/album/4WF4HvVT7VjGnVjxjoCR6w",
-        image:  "../assets/backgrounds/clear4.jpg",
+        image:  "../assets/backgrounds/clear.jpg",
         icon: "../assets/icons/sun.png"
     },
     {
@@ -35,6 +35,12 @@ const weather = [
         music:  "https://open.spotify.com/embed/album/1ATL5GLyefJaxhQzSPVrLX",
         image:  "../assets/backgrounds/snow3.jpg",
         icon: "../assets/icons/snow.png"
+    },
+    {
+        type:   'haze',
+        music:  "https://open.spotify.com/embed/album/3LpIwZdzFwc10psLingT8x",
+        image:  "../assets/backgrounds/haze.jpg",
+        icon: "../assets/icons/fog.png"
     }
 ]
 
