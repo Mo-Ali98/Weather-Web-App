@@ -79,7 +79,7 @@
     "promise-polyfill": "^6.0.2",
     "proptypes": "^0.14.3",
     "react-circular-progressbar": "^1.0.0",
-    "serve": "^2.0.0",
+    "serve": "^10.1.2",
     "set-default-browser": "^1.0.1"
   },
   "main": "webpack.config.babel.js",
